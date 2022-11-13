@@ -1,0 +1,119 @@
+﻿{ "questions": [
+
+{ "question": "Which animal did COVID-19 originate from?",  "explanation": "Research shows that COVID-19 originates from bats.",   "answers": [
+        { "value": "Rats" },
+        { "value": "Bats", "correct": true },
+        { "value": "Orangutans"},
+        { "value": "Cattle" }]},
+
+{ "question": "Which city was COVID-19 first discovered?", "explanation": "COVID-19 was first discovered in Wuhan, China.",  "answers": [
+        { "value": "Wuhan" , "correct": true },
+        { "value": "Wuhu"},
+        { "value": "Warsaw"},
+        { "value": "Wonsan" }]},
+
+{ "question": "How is COVID-19 spread?", "explanation": "COVID-19 is spread through respiratory droplets that can pass directly from one person to another.",  "answers": [
+        { "value": "Touching dirty surfaces" },
+        { "value": "By sneezing"},
+        { "value": "Through hugging"},
+        { "value": "All of the above" , "correct": true  }]},
+
+{ "question": "Which option is NOT a COVID-19 symptom?","explanation": "Increase in appetite is not a COVID-19 symptom, however patients may experience a loss of appetite.",  "answers": [
+        { "value": "Increase in appetite", "correct": true },
+        { "value": "Dry cough" },
+        { "value": "Fever"},
+        { "value": "Loss of smell" }]},
+
+{ "question": "True or false: Does drinking lots of hot drinks stop COVID-19.", "explanation": "False. Drinking hot drinks does NOT stop COVID-19.", "answers": [
+        { "value": "True" },
+        { "value": "False", "correct": true }
+]},
+
+{ "question": "What is the minimum amount of seconds I should wash my hands for?", "explanation": "You should wash your hands for at least 20 seconds.", "answers": [
+        { "value": "30 seconds" },
+        { "value": "15 seconds"},
+        { "value": "20 seconds", "correct": true },
+        { "value": "25 seconds" }]},
+
+{ "question": "True or false: you will not always show symptoms if you have COVID-19.", "explanation": "False. COVID-19 patients do not always show symptoms and may not even know they have the virus.", "answers": [
+        { "value": "True" },
+        { "value": "False", "correct": true }]},
+
+{ "question": "How many days can it take before people with COVID-19 show symptoms?", "explanation": "It can take 14 days before a person with COVID-19 shows symptoms.", "answers": [
+        { "value": "7 days" },
+        { "value": "4 days"},
+        { "value": "12 days"},
+        { "value": "14 days", "correct": true  }]},
+
+{ "question": "What should you do if you find out you have been in contact with someone who is COVID positive", "explanation": "The best thing to do in these situations is always to stay at home.", "answers": [
+        { "value": "Go to school" },
+        { "value": "Visit your granny" },
+        { "value": "Stay at home", "correct": true},
+        { "value": "Go to the doctor", "explanation": "It is better to stay home and only visit the doctor if you are feeling very sick." }]},
+
+{ "question": "True or false: children under the age of 15 have a lower chance of getting COVID-19.", "explanation": "True. Studies show that children are less likely to contract and spread COVID-19", "answers": [
+        { "value": "True", "correct": true },
+        { "value": "False"}]},
+
+{ "question": "Which organ is NOT likely to face damage due to COVID-19?", "explanation": "The kidneys are not likely to be affected by COVID-19", "answers": [
+        { "value": "Brain" },
+        { "value": "Kidney", "correct": true },
+        { "value": "Heart"},
+        { "value": "Lungs" }]},
+
+{ "question": "True or false: can animals get COVID-19.",  "explanation": "True. A small number of cats and dogs have tested positive for COVID-19, even a few lions and tigers in a New York Zoo!.", "answers": [
+        { "value": "True", "correct": true  },
+        { "value": "False"}]},
+
+{ "question": "True or false: COVID-19 can be transmitted through mosquito bites?", "explanation": "There is currently no evidence that suggests that mosquitoes can spread COVID-19",  "answers": [
+        { "value": "True" },
+        { "value": "False", "correct": true }]},
+
+{ "question": "True or false: Eating garlic can prevent you from being infected with COVID-19?", "explanation": "There is no food that you can eat that will stop you from getting COVID-19",  "answers": [
+        { "value": "True" },
+        { "value": "False", "correct": true }]},
+
+{ "question": " How long can COVID-19 survive on plastic or stainless steel surfaces", "explanation": "COVID-19 has been found to survive for 72 hours on plastic or stainless steel surfaces.",  "answers": [
+        { "value": "24 hours" },
+        { "value": "48 hours" },
+        { "value": "72 hours", "correct": true},
+        { "value": "96 hours" }]},
+
+{ "question": " True or false: Antibiotics are not helpful for preventing or treating COVID-19.", "explanation": "There are currently no antibiotics available that can treat COVID-19.",  "answers": [
+        { "value": "True", "correct": true  },
+        { "value": "False"}]},
+
+{ "question": "True or false: if your mask is uncomfortable, you can wear your mask under your nose.", "explanation": "False, when wearing a mask it should cover your mouth and nose entirely.","answers": [
+        { "value": "True" },
+        { "value": "False", "correct": true }]},
+
+{ "question": "What is the minimum length of time you should isolate for if you test positive for COVID-19?", "explanation": "You should isolate for a minimum of 10 days if you test positive for COVID-19.",   "answers": [
+        { "value": "7 days" },
+        { "value": "10 days", "correct": true },
+        { "value": "14 days"},
+        { "value": "21 days" }]},
+
+{ "question": "In which circumstance is it NOT okay to take off your mask.", "explanation": "It is not okay to take off your mask when you are close to someone, even when they can’t hear you.",  "answers": [
+        { "value": "While eating in a restaurant" },
+        { "value": "When you can't be heard", "correct": true },
+        { "value": "While far away from people"},
+        { "value": "When you are at home" }]},
+
+{ "question": "True or false: most people who get COVID-19 recover from it?", "explanation": "True. Luckily, most people recover from COVID-19.",   "answers": [
+        { "value": "True", "correct": true },
+        { "value": "False" }]},
+
+{ "question": "True or false: Thermal scanners can detect COVID-19.", "explanation": "False. Thermal scanners cannot detect COVID-19.",   "answers": [
+        { "value": "True" },
+        { "value": "False", "correct": true }]},
+
+{ "question": "What option is NOT true. You may only attend an event if:", "explanation": "Events may be held inside as long as there is a 1m distance between each person.",  "answers": [
+        { "value": "It is outside" , "correct": true },
+        { "value": "It meets all the guidelines"},
+        { "value": "People are safely spaced out"},
+        { "value": "There is hand sanitizer" }]},
+
+{ "question": "True or false: If you are struggling to breathe it is okay to take your mask off in public.", "explanation": "True. If you are struggling to breathe, take off your mask and signal for help.",   "answers": [
+        { "value": "True", "correct": true  },
+        { "value": "False"}]}
+]}
